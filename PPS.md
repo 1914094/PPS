@@ -1,10 +1,10 @@
 ![College  Logo](https://www.gndec.ac.in/logo.png)
 
 # **Programming for Problem Solving**
-## **Name:- Konark Lohat**
-## **CRN:-1915328**
-## **Branch:- CSE-C1**
-## **Submitted To:- Ms. Goldendeep Kaur**
+## **Name:- Sahilpreet Singh**
+## **CRN:-1914094**
+## **Branch:- CE-B2**
+## **Submitted To:- Ms. Yaadveer Kaur**
 ---
 
 ### 1) To print name.
@@ -13,7 +13,7 @@
 int main()
 {
     puts("~~~~~~~~~~~~~~~~~~~~~~~~~");
-    puts("My name is Konark Lohat");
+    puts("My name is Sahil");
     puts("~~~~~~~~~~~~~~~~~~~~~~~~~");
     return 0;
 }
